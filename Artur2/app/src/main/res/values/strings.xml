@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArturSan</string>
+    <string name="ZamenaTrub">Замена труб</string>
+    <string name="Diag">Диагностика</string>
+    <string name="Vanna">Установка ванны</string>
+    <string name="Ynitaz">Монтаж унитаза</string>
+    <string name="Stiralka">Установка стиральной машины</string>
+    <string name="spisok">Список услуг</string>
+</resources>
